@@ -26,6 +26,6 @@ function iLoveTheBeatles(number){
   do{beatles.push("I love the Beatles!")}
     while(number < 15);
     number++;
-  
+
   return beatles;
 }
