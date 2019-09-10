@@ -16,6 +16,6 @@ while(facts.length > count){
   lennonFacts.push(`${facts[count]}!!!`);
   count += 1;
 }
-return lennonFacrs;
+return lennonFacts;
 
 }
