@@ -19,3 +19,13 @@ while(facts.length > count){
 return lennonFacts;
 
 }
+
+function iLoveTheBeatles(number){
+  let beatles = [];
+
+  do(beatles.push("I love the Beatles!"){
+    while(number < 15);
+    number++;
+  }
+  return beatles;
+}
