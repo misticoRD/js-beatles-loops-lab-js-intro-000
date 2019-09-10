@@ -13,7 +13,7 @@ let lennonFacts = [];
 let count = 0;
 
 while(facts.length > count){
-  lennonFacts.push(`${facts[count]!!!}`);
+  lennonFacts.push(`${facts[count]}!!!`);
   count += 1;
 }
 return lennonFacrs;
