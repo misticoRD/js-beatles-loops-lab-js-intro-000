@@ -12,4 +12,3 @@ function johnLennonFacts(facts){
  while(facts > 0){
     return `${facts}!!!`
   }
-
