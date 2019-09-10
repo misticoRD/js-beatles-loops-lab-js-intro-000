@@ -9,7 +9,7 @@ function theBeatlesPlay(musician, instruments){
 }
 
 function johnLennonFacts(facts){
-let factsArray = []
+let factsArray = [];
  while(facts){
     factsArray.push(`${facts}!!!`);
   }
