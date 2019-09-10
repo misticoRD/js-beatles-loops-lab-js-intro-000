@@ -13,4 +13,5 @@ facts = [];
 while(facts.length > 0){
   facts.push(`${facts}!!!`);
 }
+return facts;
 }
